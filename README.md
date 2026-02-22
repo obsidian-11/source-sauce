@@ -1,5 +1,7 @@
 # SourceSauce – AI Source Credibility Analyzer
 
+![Screenshot](sc.png "App Screenshot")
+
 ## The Problem
 
 As AI language models like ChatGPT, Claude, and Gemini become central research assistants, users increasingly rely on the sources these models cite. Yet, all citations—whether from reputable outlets like Reuters or AI-generated content farms—appear identical in chat interfaces. This creates a serious risk: users may unknowingly trust low-credibility, AI-generated, or biased sources. Existing solutions are manual, slow, and cognitively taxing. No real-time tool exists to assess source credibility directly inside AI chat interfaces.
