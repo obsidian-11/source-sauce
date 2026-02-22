@@ -1,6 +1,6 @@
 # SourceSauce – AI Source Credibility Analyzer
 
-![Screenshot](sc.png "App Screenshot")
+<img src="sc.png" alt="Screenshot" width="500">
 
 ## The Problem
 
